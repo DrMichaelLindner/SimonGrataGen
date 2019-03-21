@@ -17,13 +17,13 @@ Copy the SimonGrataGen folder in a folder of your choice on your system and add 
 
 - For sending triggers via parallel port you need
 
-    - for Windows 32bit: 
+    - for Windows 32bit:  
         io32: http://apps.usd.edu/coglab/psyc770/IO32.html
         
-    - for Windows 64bit: 
+    - for Windows 64bit:  
         io64: http://apps.usd.edu/coglab/psyc770/IO64.html
         
-    - for linux:
+    - for linux:  
         ppdev-mex: https://github.com/widmann/ppdev-mex
 
         
