@@ -37,11 +37,7 @@ SimonGrataGen is free software; you can redistribute it and/or modify it under t
   
 ## *Author*
 Michael Lindner  
-
 University of Reading, 2018  
-
 School of Psychology and Clinical Language Sciences
-
 Centre for Integrative Neuroscience and Neurodynamics  
-
 Contact: ![contact email](contact.png?raw=true "contact email")
