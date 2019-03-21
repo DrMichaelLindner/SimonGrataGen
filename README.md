@@ -1,24 +1,28 @@
 
-# ![Alt text](SGG_Logo.png?raw=true "Title")
+# ![Alt text](SGG_LOGO.bmp?raw=true "Title")
 
-#   SimonGraTaGen
+#   SimonGrataGen
 Simon Grammar Task Generator
 
+The Simon grammar task generator is a tool thought to easily generate Simon tasks experiments with a few button presses and run them.
 
 ## *Install*  
-Copy the SimonGraTaGen folder in a folder of your choice on your system and add the directory to your matlab path.
+Copy the SimonGrataGen folder in a folder of your choice on your system and add the directory to your matlab path.
 
 
 ## *Dependencies*  
-- For the usage of SimonGraTaGen you need to have Matlab (www.mathworks.com) installed. SimonGraTaGen is developed on MatLab2017b but it should work with other Matlab distributions later than 2015b as well.
+- For the usage of SimonGrataGen you need to have Matlab (www.mathworks.com) installed. SimonGraTaGen is developed on MatLab2017b but it should work with other Matlab distributions later than 2015b as well.
 
 - SimonGraTaGen is using Psychtoolbox-3 (psychtoolbox.org/)
 
 - For sending triggers via parallel port you need
+
     for Windows 32bit: 
         io32: http://apps.usd.edu/coglab/psyc770/IO32.html
+        
     for Windows 64bit: 
         io64: http://apps.usd.edu/coglab/psyc770/IO64.html
+        
     for linux:
         ppdev-mex: https://github.com/widmann/ppdev-mex
 
