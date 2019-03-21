@@ -32,14 +32,16 @@ Find details information about the usage in the Manual or by typing 'doc SimonGr
 
 
 ## *Licence*  
-SimonGrataGen is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License (GPLv3) as published
-by the Free Software Foundation;
+SimonGrataGen is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License (GPLv3) as published by the Free Software Foundation;
   
   
 ## *Author*
 Michael Lindner  
+
 University of Reading, 2018  
+
 School of Psychology and Clinical Language Sciences
+
 Centre for Integrative Neuroscience and Neurodynamics  
+
 Contact: ![contact email](contact.jpg?raw=true "contact email")
