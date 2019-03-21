@@ -44,4 +44,4 @@ School of Psychology and Clinical Language Sciences
 
 Centre for Integrative Neuroscience and Neurodynamics  
 
-Contact: ![contact email](contact.jpg?raw=true "contact email")
+Contact: ![contact email](contact.png?raw=true "contact email")
